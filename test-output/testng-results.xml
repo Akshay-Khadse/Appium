@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="37203" started-at="2016-11-03T13:01:00Z" finished-at="2016-11-03T13:01:37Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="37203" started-at="2016-11-03T13:01:00Z" finished-at="2016-11-03T13:01:37Z">
+      <class name="Appium.com.khushi.LoginTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Appium.com.khushi.LoginTest@4cf777e8]" name="setUp" is-config="true" duration-ms="9126" started-at="2016-11-03T18:31:00Z" finished-at="2016-11-03T18:31:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="Login()[pri:1, instance:Appium.com.khushi.LoginTest@4cf777e8]" name="Login" duration-ms="28064" started-at="2016-11-03T18:31:09Z" finished-at="2016-11-03T18:31:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+      </class> <!-- Appium.com.khushi.LoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
